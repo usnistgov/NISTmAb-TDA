@@ -19,3 +19,7 @@ GCCD example on a different protein type, from PDB format.
 ## gccd.py
 
 Main function file.
+
+## time_gccd_fn.ipynb 
+
+Time the GCCD function for a random selection of frames.
