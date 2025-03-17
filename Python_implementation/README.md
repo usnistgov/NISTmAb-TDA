@@ -28,6 +28,13 @@ GCCD example on a different protein type, from PDB format.
 
 Main function file.
 
+## test_accuracy.ipynb 
+
+Classification test accuracy for three possible types of topological summaries: 
+* GCCD matrices
+* Gaussian Betti curves
+* Concatenated normalized 0D, 1D, 2D Gaussian Betti curves
+
 ## time_gccd_fn.ipynb 
 
 Time the GCCD function for a random selection of frames.
