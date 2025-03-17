@@ -8,6 +8,10 @@ Versions used for the Python implementation at the time of writing.
 
 In particular, note that Open Applied Topology (OAT) was recently released at the time of writing. Changes to the code may occur for later versions.
 
+## call_betti_012.ipynb
+
+Read csv files with 3d spatial coordinates, save concatenated 0d, 1d, and 2d normalized Gaussian Betti curves. 
+
 ## call_gccd.ipynb
 
 Notebook for reading formatted data and saving GCCD matrices. 
