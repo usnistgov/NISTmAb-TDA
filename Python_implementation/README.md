@@ -16,6 +16,10 @@ Read csv files with 3d spatial coordinates, save concatenated 0d, 1d, and 2d nor
 
 Notebook for reading formatted data and saving GCCD matrices. 
 
+## determine_filtration_range.ipynb
+
+Determine when we can end the filtration / which rows to include in the GCCD matrices.
+
 ## example_pdb.ipynb
 
 GCCD example on a different protein type, from PDB format.
