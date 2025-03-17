@@ -31,3 +31,7 @@ Main function file.
 ## time_gccd_fn.ipynb 
 
 Time the GCCD function for a random selection of frames.
+
+## tune_hyperparams.ipynb
+
+Tune classification hyperparameters.
