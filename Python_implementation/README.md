@@ -12,6 +12,10 @@ In particular, note that Open Applied Topology (OAT) was recently released at th
 
 Notebook for reading formatted data and saving GCCD matrices. 
 
+## example_pdb.ipynb
+
+GCCD example on a different protein type, from PDB format.
+
 ## gccd.py
 
 Main function file.
